@@ -10,6 +10,7 @@ backend/*.db-wal
 # Frontend dependencies and build output
 frontend/node_modules/
 frontend/dist/
+frontend/public/new-drone-preview.mp4
 
 # Local secrets and environment files
 .env
