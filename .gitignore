@@ -3,6 +3,9 @@
 venv/
 __pycache__/
 *.py[cod]
+backend/*.db
+backend/*.db-shm
+backend/*.db-wal
 
 # Frontend dependencies and build output
 frontend/node_modules/
